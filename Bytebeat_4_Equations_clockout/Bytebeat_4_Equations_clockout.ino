@@ -1,4 +1,3 @@
-
 // One line code symphony with clock output 
 // and 4 equations
 // Written by Pangrus 
